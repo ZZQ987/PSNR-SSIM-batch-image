@@ -2,7 +2,7 @@ This is a script for batch evaluation of psnr and ssim indicators of reconstruct
 
 The usage is as follows:
 
-python image_eval.py --orig_path 'orig' --recon_path 'recon'  --image_ format ‘bmp’
+**python image_eval.py --orig_path 'orig' --recon_path 'recon'  --image_ format ‘bmp’**
 
 orig_path: the folder where the original images are placed
 
